@@ -1,32 +1,45 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=header&text=Stefect&fontSize=30&fontColor=e8e8e8&fontAlignY=42&animation=fadeIn&desc=backend%20developer&descAlignY=62&descSize=12&descColor=555555" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=13&duration=4500&pause=1500&color=555555&center=true&vCenter=true&width=380&lines=node.js+%2F+javascript;building+in+the+dark;always+learning)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:0D1117&height=120&section=header" />
+
+# 𝔖𝔱𝔢𝔣𝔢𝔠𝔱
+
+> *"У тиші код плаче, у темряві народжується світло."*
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=F0F6FC" />
+</p>
 
 </div>
 
-<br/>
+---
+
+## 🕯️ Про мене
+
+Будую серверну архітектуру, балансуючи між хаосом та ідеальною симетрією.  
+Як і барокове мистецтво — детально, виразно, монументально.
+
+- **⚡ Поточний фокус:** Node.js, серверна розробка, чисті REST API
+- **🌑 Філософія:** оптимізація до останнього рядка, структурований та читабельний код
+- **🔧 Середовище:** Linux / UNIX, де кожен конфіг — витвір мистецтва
+
+---
+
+## 📊 Монохромна статистика
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=e8e8e8)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=e8e8e8)
-![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express&logoColor=e8e8e8)
-![npm](https://img.shields.io/badge/-npm-0d1117?style=flat-square&logo=npm&logoColor=e8e8e8)
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=e8e8e8)
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=e8e8e8)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=e8e8e8)
-![Postman](https://img.shields.io/badge/-Postman-0d1117?style=flat-square&logo=postman&logoColor=e8e8e8)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Stefect&show_icons=true&hide_border=true&bg_color=0d1117&title_color=555555&icon_color=aaaaaa&text_color=aaaaaa&count_private=true&hide_title=true&ring_color=333333" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefect&layout=compact&hide_border=true&bg_color=0d1117&title_color=555555&text_color=aaaaaa&langs_count=5" />
+<img src="https://github-readme-stats.vercel.app/api?username=Stefect&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&icon_color=8E9298&text_color=C0C0C0&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefect&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C0C0C0&langs_count=5" width="48%" />
 
 </div>
 
@@ -42,4 +55,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" />
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" />
+</div>
